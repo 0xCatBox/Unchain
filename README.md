@@ -1,3 +1,9 @@
+## Participated track
+Main track: Everything ZK
+Sponsored track: IPFS/Filecoin
+- 
+- 
+
 ## Inspiration
 The damage caused by personal information leakage continues to occur. Therefore, the importance of protecting personal information is growing. And we think that the blockchain will solve the privacy. While studying DID, which was recently recognized as a web standard, I found that selective disclosure of personal information was necessary. At this time, using zkp, selective disclosure can be performed. As we studied zkp, we found that polygon tried many things using zkp. We happened to see the ZK track in Polygon hackathon and immediately joined Hackathon.
 
