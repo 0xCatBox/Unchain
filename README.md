@@ -11,15 +11,21 @@ You can only watch advertisements in categories of interest without directly rev
 Although the use of **ZKP** can minimize the exposure of information, it is impossible to completely eliminate the exposure of information. So by subdividing the categories, it makes it difficult to specify a person's preference.
 
 ## Challenges we ran into
-Our ultimate goal is to build a true web3 using DID. In this polygon hackathon, we learned and used zkp as a way to reach true web3. we are proud to understand and utilize Circom2.
+Our ultimate goal is to build a true web3 using DID. In this polygon hackathon, we learned and used zkp as a way to reach true web3. we are proud to understand and utilize Circom2.
 
 ## What we learned
 We learned a lot from Hackathon.
 - ZK-SNARK Knowledge
-- Utilize Circom2
+- Utilize Circom2
 - Platform utilizing IPFS
 - Utilize SDKs related to IPFS
 - Growth Possibility of Polygon with use ZK
+
+## How to execute
+```
+npm i --legacy-peer-deps
+npm start
+```
 
 ## What's next for Unchain
 We will learn more about ZK and approach true web3 using DID.
