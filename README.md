@@ -1,8 +1,12 @@
 ## Participated track
-Main track: Everything ZK
-Sponsored track: IPFS/Filecoin
-- 
-- 
+
+### Main track: Everything ZK
+
+### Sponsored track: IPFS/Filecoin
+#### Explicit links and lines where the technique is used
+- Line 7 ~ 25 https://github.com/Unchain-Polygon-BUIDL-IT-Summer-2022/Unchain/blob/gooood/src/features/VideoToIPFS.js
+- Line 6 ~ 45 https://github.com/Unchain-Polygon-BUIDL-IT-Summer-2022/Unchain/blob/gooood/src/features/ObjectToIPFS.js
+- Line 8 ~ 30 https://github.com/Unchain-Polygon-BUIDL-IT-Summer-2022/Unchain/blob/gooood/src/features/GetListFromIPFS.js
 
 ## Inspiration
 The damage caused by personal information leakage continues to occur. Therefore, the importance of protecting personal information is growing. And we think that the blockchain will solve the privacy. While studying DID, which was recently recognized as a web standard, I found that selective disclosure of personal information was necessary. At this time, using zkp, selective disclosure can be performed. As we studied zkp, we found that polygon tried many things using zkp. We happened to see the ZK track in Polygon hackathon and immediately joined Hackathon.
